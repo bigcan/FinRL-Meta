@@ -145,3 +145,8 @@ price_array.npy
 
 # vscode
 /.vscode
+
+# AI Agent Directories - Protect credentials and tokens
+.claude/settings.local.json
+.codex/config.local.json
+.codex/history/
